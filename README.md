@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussainDerry)](https://github.com/anuraghazra/github-readme-stats)
+![Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussainDerry&count_private=true)
+
+
 <!--
 **HussainDerry/HussainDerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
